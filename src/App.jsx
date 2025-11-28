@@ -32,7 +32,7 @@ function App() {
           showBorder={false}
           className="gtext"
         >
-          <h1 className='headtxt'>Rexoplay🦊</h1>
+          <h1 className='headtxt'>Rexoplay</h1>
         </GradientText>
 
         <div className="nav_bar">
