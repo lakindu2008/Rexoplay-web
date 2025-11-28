@@ -32,7 +32,7 @@ function App() {
           showBorder={false}
           className="gtext"
         >
-          <h1 className='headtxt'>Rexoplay</h1>
+          <h1 className='headtxt'>Rexoplay🦊</h1>
         </GradientText>
 
         <div className="nav_bar">
@@ -83,7 +83,7 @@ function App() {
         </div>
 
         {/* Skills Section */}
-        <h1 className='txt4'>My Skills 🚀</h1>
+        <h1 className='txt4'>My Skills</h1>
         <div className="cards">
           <SpotlightCard className='card1'>
             <img src="https://github.com/lakindu2008/garde10/blob/main/images/1%20(1).png?raw=true" style={{ width: "60%" }} />
